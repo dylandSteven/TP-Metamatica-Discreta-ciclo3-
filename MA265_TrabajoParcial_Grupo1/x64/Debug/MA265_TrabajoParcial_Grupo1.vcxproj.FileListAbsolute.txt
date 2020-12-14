@@ -1,0 +1,6 @@
+C:\Users\Ricardo\Desktop\Trabajo APrcial\MA265_TrabajoParcial_Grupo1\x64\Debug\MA265_TrabajoParcial_Grupo1.vcxprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Trabajo APrcial\MA265_TrabajoParcial_Grupo1\x64\Debug\MA265TrabajoParcialGrupo1.MainForm.resources
+C:\Users\Ricardo\Desktop\Trabajo APrcial\MA265_TrabajoParcial_Grupo1\x64\Debug\MA265_TrabajoParcial_Grupo1.vcxproj.GenerateResource.cache
+C:\Users\ricar\OneDrive\Escritorio\TP Mate\MA265_TrabajoParcial_Grupo1\x64\Debug\MA265_TrabajoParcial_Grupo1.vcxprojAssemblyReference.cache
+C:\Users\ricar\OneDrive\Escritorio\TP Mate\MA265_TrabajoParcial_Grupo1\x64\Debug\MA265TrabajoParcialGrupo1.MainForm.resources
+C:\Users\ricar\OneDrive\Escritorio\TP Mate\MA265_TrabajoParcial_Grupo1\x64\Debug\MA265_TrabajoParcial_Grupo1.vcxproj.GenerateResource.cache
